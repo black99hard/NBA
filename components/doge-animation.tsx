@@ -25,7 +25,7 @@ export default function DogeAnimation() {
   return (
     <div className="relative w-64 h-64">
       <Image
-        src="/nba.png"
+        src="/assets/nba.png"
         alt="Cute Doge"
         width={256}
         height={256}
